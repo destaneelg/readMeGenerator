@@ -21,8 +21,6 @@ THEN
 
 
 ```
-The following animation demonstrates the application functionality (cmd + click):
-
 ## Obstacles faced during development
 ``
 
@@ -32,5 +30,10 @@ The following animation demonstrates the application functionality (cmd + click)
 
 ```
 ## Review
-* The URL of the deployed application.
+* The URL of the deployed application:
+
+* A walkthrough video demonstrating the functionality of the application:
+
+* A sample README.md file for a project repository generated using the application:
+
                          
