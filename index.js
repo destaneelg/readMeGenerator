@@ -1,4 +1,5 @@
 var fs = require("fs");
+var markDown = require("./utils/generateMarkdown.js")
 const { parse } = require("path");
 
 
@@ -22,3 +23,5 @@ function init() {
 
 // function call to initialize program
 init();
+
+var readme = []; 
