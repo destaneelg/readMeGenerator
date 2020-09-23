@@ -1,4 +1,5 @@
 var fs = require("fs");
+const { parse } = require("path");
 
 
 
@@ -7,11 +8,16 @@ const questions = ["What is the title of your project?", "How would you describe
 
 // function to write README file
 function writeToFile(fileName, data) {
+    for(var i = 0; i <questions.length; i++){
+        console.log(questions[i]);
+        // var userInput = parse.process.argv[2]
+    }
 }
 
 // function to initialize program
 function init() {
-
+   console.log("Fill in corresponding information in quotation  marks with commas in seperating to build readMe:");
+   writeToFile();
 }
 
 // function call to initialize program
