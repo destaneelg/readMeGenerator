@@ -2,6 +2,9 @@ var fs = require("fs");
 var markDown = require("./utils/generateMarkdown.js")
 const { parse } = require("path");
 
+fs.appendFile("readMe.md", "utf-8", readme, err => {
+    if (err) throw err;
+  });
 
 
 // array of questions for user
