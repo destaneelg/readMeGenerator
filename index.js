@@ -69,14 +69,12 @@ function writeToFile(fileName, data) {
 function init() {
    console.log("Fill in corresponding information in quotation  marks with commas in seperating to build readMe:");
 inquirer.prompt(questions).then((answers) => {
-    console.log(parse),
   console.log(JSON.stringify(answers, null, '  '));
   writeToFile("./sample/readme.md", markDown({...answers}));
+  
 });
-}
-
 // function call to initialize program
-//Possibly add inquirer into init and write to 
-init();
+//Possibly add inquirer into init and write to
 
-// var readme = []; 
+}
+init();

@@ -2,6 +2,23 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ${data.project}
+
+
+
+  ${data.technolodgy}
+
+
+  ${data.use}
+
+
+  ${data.license}
+
+
+  ${data.testing}
+ 
+
+
 `;
 }
 
