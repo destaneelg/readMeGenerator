@@ -21,7 +21,7 @@ Creating more options and customization for section choices added to readMe
 ## Review
 * The URL of the deployed application: https://destaneelg.github.io/readMeGenerator/
 
-* A walkthrough video demonstrating the functionality of the application: https://media.giphy.com/media/PJoVJ0Mq2T9DU4q0tr/giphy.gif
+* A walkthrough video demonstrating the functionality of the application: https://drive.google.com/file/d/13FFVO3-HXYTQ4_hAXAoUzocSh1rKevUt/view
 
 * A sample README.md file for a project repository generated using the application:
 
