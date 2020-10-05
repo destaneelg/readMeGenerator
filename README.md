@@ -25,4 +25,4 @@ Creating more options and customization for section choices added to readMe
 
 * A sample README.md file for a project repository generated using the application:
 
-                         utf-8utf-8utf-8utf-8
+sample/readme.md
