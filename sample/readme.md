@@ -1,20 +1,33 @@
-# s
-  $("p").append("s");
+# 
 
-  s
-  $("p").append(" s");
+  Title
+
+  Destanee 
+
+  Project
+
+  It is a CLI that takes input and makes a READ.me 
+
+  Technolodgy
 
 
-  s
-  $("p").append(  "s");
 
-  s
-  $("p").append("  s");
+  HTML, CSS, JS, NODE 
 
-  s
-  $("p").append("s");
+  Use
 
-  s
-  $("p").append(" s");
+
+  To create read mes
+
+  
+  License
+
+  MIT 
+
+ 
+  Testing
+ 
+  By making this file 
+ 
 
 
